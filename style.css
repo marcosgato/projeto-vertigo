@@ -9,4 +9,9 @@
 header {
     background-image: url(img/Rectangle\ 1\ \(1\).png);
     background-size: cover;
+    height: 8.375rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
